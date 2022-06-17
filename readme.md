@@ -4,7 +4,7 @@
 1. [Overview](#overview)
 2. [Languages](#languages)
 3. [Technologies](#technologies)
-4. [Installation](#installation)
+4. [Installations](#installations)
 5. [Run](#run)
 
 ## Overview
@@ -17,7 +17,7 @@ A simple REST API
 * Node JS
 * Express JS
 
-## Installation
+## Installations
 ```bash
 npm install express
 npm i uuid
